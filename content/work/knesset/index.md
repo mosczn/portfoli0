@@ -18,21 +18,22 @@ How do you manage the operational heartbeat of a nation's parliament? By transfo
 ---
 
 ## The Challenge: Operational Fragmentation
-The CEO and a team of 10 staff members managed the Knesset through a "governance gap"—switching between dozens of video feeds, separate calendars, and legacy search tools. 
+The CEO and a team of 10 staff members managed the Knesset through a "governance gap" — switching between dozens of video feeds, separate calendars, and legacy search tools.
 
 **The goal:** Eliminate the noise and provide immediate operational visibility for the entire team.
 
 ---
 
 ## The Strategy: Multi-User Alignment
-The challenge wasn't just a "view" for the executive, but a synchronized workspace for 10 operational staff members. 
+The challenge wasn't just a "view" for the executive — it was a synchronized workspace for 10 operational staff members.
+
 - **Collaborative Scheduling:** Staff manages room logistics and video routing while the CEO oversees the final agenda.
-- **Shared Source of Truth:** Eliminating information silos to ensure the entire team acts on the same real-time data.
+- **Shared Source of Truth:** Eliminating information silos so the entire team acts on the same real-time data.
 
 ---
 
 ## The Solution: The Unified Command Interface
-I designed a system that merges real-time surveillance, room capacity, and historical archives into one intuitive surface.
+I designed a system that merges real-time surveillance, room capacity, and historical archives into one cohesive surface.
 
 ### 1. Integrated Surveillance & Calendar
 I integrated video feed controls directly into the calendar context, allowing the team to monitor ongoing sessions without context switching.
@@ -40,20 +41,20 @@ I integrated video feed controls directly into the calendar context, allowing th
 ![Knesset Calendar Interface](/work/knesset/ca_week.svg "Unified calendar view with integrated video controls")
 
 ### 2. Strategic Room Management
-To support complex planning, I designed a multi-layered Room Capacity module. It allows the team to toggle between daily and weekly views, using color coding to communicate availability at a glance.
+I designed a multi-layered Room Capacity module that lets the team toggle between daily and weekly views, using color coding to communicate availability at a glance.
 
-![Knesset Room Capacity](/work/knesset/rc_week.svg "Weekly view of all rooms’ capacity for long-term planning")
+![Knesset Room Capacity](/work/knesset/rc_week.svg "Weekly view of all rooms' capacity for long-term planning")
 
 ### 3. Unified Intelligence
-The search experience was rebuilt to bridge the gap between live events and historical meeting records, ensuring that no institutional memory is lost.
+The search experience was rebuilt to bridge live events and historical meeting records, ensuring no institutional memory is lost.
 
 ![Knesset Search Experience](/work/knesset/sr.svg "Unified search interface for events and historical recordings")
 
 ---
 
 ## The Result
-The transition from fragmented tools to a unified dashboard significantly reduced administrative overhead, allowing for faster response times and synchronized management of the Knesset's daily agenda.
+Moving from fragmented tools to a unified dashboard reduced administrative overhead, enabling faster response times and synchronized management of the Knesset's daily agenda.
 
 ---
 
-*Interested in high-impact governance tools?* **[Let’s connect.](mailto:mos.czn@gmail.com)**
+*Interested in high-impact governance tools?* **[Let's connect.](mailto:mos.czn@gmail.com)**
