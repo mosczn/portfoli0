@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: portfoli0
+    runtime: static
+    staticPublishPath: ./public
