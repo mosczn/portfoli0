@@ -1,0 +1,5 @@
+package com.mosczn.bingy
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
